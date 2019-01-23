@@ -13,3 +13,7 @@ const destructivelyPrependDriver = function(name){
 const destructivelyRemoveLastDriver = function(){
   drivers.pop()
 }
+
+const destructivelyRemoveFirstDriver = function(){
+  drivers.shift();
+}
