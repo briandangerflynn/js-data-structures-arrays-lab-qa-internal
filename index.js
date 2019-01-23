@@ -10,4 +10,6 @@ const destructivelyPrependDriver = function(name){
   drivers.unshift(name)
 }
 
-const 
+const destructivelyRemoveLastDriver = function(){
+  
+}
