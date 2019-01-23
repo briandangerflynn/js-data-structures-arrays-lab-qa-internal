@@ -6,4 +6,3 @@ const destructivelyAppendDriver = function(name){
   console.log(drivers)
 }
 
-destructivelyAppendDriver('Ralph')
