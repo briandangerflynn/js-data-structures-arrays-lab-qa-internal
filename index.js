@@ -7,5 +7,5 @@ const destructivelyAppendDriver = function(name){
 }
 
 const destructivelyPrependDriver = function(name){
-  drivers.pop
+  drivers.unshift(name)
 }
